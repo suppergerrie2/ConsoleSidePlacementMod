@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "ConsoleSidePlacement",
+    "name": "ConsoleSidePlacement",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.suppergerrie2.com",
+    "updateUrl": "",
+    "authorList": [
+      "suppergerrie2"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
